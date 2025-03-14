@@ -21,7 +21,7 @@ Route::get('/tasks', function () {
     return view('pages.tasks');
 });
 
-Route::get('/task-details', function () {
+Route::get('/task-detail', function () {
     return view('pages.detail');
 });
 

@@ -1,7 +1,7 @@
-<header class="bg-yellow">
-  <nav class="flex items-center justify-between px-12 py-7">
-    <a href="">
-      <img src="/images/To-do List.svg" alt="To-do List">
+<header class="shadow bg-yellow">
+  <nav class="flex items-center justify-between px-12 py-3">
+    <a href="/">
+      <img src="/images/Lumi Green.svg" alt="To-do List" class="h-[45px]">
     </a>
     <div class="flex gap-12 text-sm">
       <a href="/"
