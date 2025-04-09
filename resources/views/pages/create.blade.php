@@ -68,7 +68,8 @@
         </div>
         <div class="flex gap-5 mt-7">
           <a href="/tasks" class="w-full py-2 text-center rounded-full bg-light-gray">Cancel</a>
-          <button type="submit" class="w-full py-2 text-center text-white rounded-full bg-green">Save</button>
+          <button type="submit"
+            class="w-full py-2 text-center text-white transition-all duration-300 ease-in-out rounded-full bg-green hover:bg-forest-green">Save</button>
         </div>
       </form>
     </main>
